@@ -10,3 +10,6 @@
 
 - Add New Features1
 - Add New Features2
+### Add New Features2:
+
+![Image 2 Added](https://picsum.photos/id/4/200/200)
